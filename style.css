@@ -27,4 +27,11 @@ button {
 }
 
 
-
+footer{
+    background-color: rgb(58, 84, 109);
+    color: white;
+}
+.copyright{
+    color: white;
+    background-color:rgb(44, 62, 80) ;
+}
