@@ -29,6 +29,13 @@ button {
     border: 1px solid white;
     background-color: transparent;
 }
+.star-icon{
+    display: flex;
+    max-width: 200px;
+    align-items: center;
+    width: 100%;
+    column-gap: 15px;
+}
 
 
 footer{
