@@ -8,6 +8,10 @@ li{
 img{
     max-width: 100%;
 }
+.text-decoretion {
+    text-decoration: none;
+    
+}
 .bg-header{
     color: white;
     background-color: rgb(44, 62, 80);
